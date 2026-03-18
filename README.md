@@ -1,4 +1,4 @@
-# Customer-Segmentation-
+# Customer Segmentation
 This project analyzes customers behavior to identify different customer segment base on their income, generation and spending patterns.  - The goal is to help businesses understand their customer and design better marketing strategies.
 # Tools used 
 - Microsoft Excel
@@ -8,7 +8,7 @@ This project analyzes customers behavior to identify different customer segment 
  # Database Description 
  The datase contains customers demographic and spreading information 
 
-#### column includews:
+#### column includes:
  - custormer ID
  - Gender
  - Age
@@ -42,5 +42,5 @@ This project analyzes customers behavior to identify different customer segment 
   - Younger customer show higher spending behaviour.
 
 ###### These insight will help the business design targeted marketing Campaigns
-And also uses RMF to identify Loyal Customers, At-Risk Customers and big Spenders  
+###### And also uses RMF to identify Loyal Customers, At-Risk Customers and big Spenders  
 
