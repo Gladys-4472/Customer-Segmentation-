@@ -21,6 +21,8 @@ This project analyzes customers behavior to identify different customer segment 
    - Average income
    - Spending behaviour by gender
    - Customer Segmentation
+<img width="486" height="463" alt="customer sql 1" src="https://github.com/user-attachments/assets/4b8e5c15-9b2c-4f45-b5df-304f49dbb19b" />
+<img width="636" height="329" alt="customer sql 2" src="https://github.com/user-attachments/assets/23209779-465d-4bcc-bc07-924014e63f48" />
 
 #### Customer Segmentation
      Customer were segemented into four groups
@@ -35,6 +37,7 @@ This project analyzes customers behavior to identify different customer segment 
      - Income Vs Spending patterns
      - Gender Analysis
      - Segment Distribution 
+<img width="894" height="465" alt="customer Dashboard" src="https://github.com/user-attachments/assets/2d2a7fb0-4f94-44e7-b468-401dc745f754" />
 
   #   Business insight 
   - High income customers tends to have higher spending scores.
