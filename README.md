@@ -47,3 +47,7 @@ This project analyzes customers behavior to identify different customer segment 
 ###### These insight will help the business design targeted marketing Campaigns
 ###### And also uses RMF to identify Loyal Customers, At-Risk Customers and big Spenders  
 
+
+# Author 
+#### Gladys Okedare 
+#### Data Analyst 
